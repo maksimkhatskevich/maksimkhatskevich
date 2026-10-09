@@ -11,7 +11,7 @@ I also write about hip-hop and albums in my Telegram channel **[Grimsby](https:/
 
 ### 🎧 Grimsby Player
 
-<a href="https://github.com/maksimkhatskevich/grimsby-releases"><img src="https://raw.githubusercontent.com/maksimkhatskevich/grimsby-releases/main/screenshots/home.png" alt="Grimsby Player" width="720"></a>
+<a href="https://github.com/maksimkhatskevich/grimsby-releases"><img src="https://raw.githubusercontent.com/maksimkhatskevich/grimsby-releases/main/screenshots/en/home.jpg" alt="Grimsby Player" width="720"></a>
 
 Your own music library with a streaming-style interface — everything stays on your drive.
 Albums by year, artist pages, music videos next to albums, gapless playback, ReplayGain, EQ, listening stats and a yearly recap.
