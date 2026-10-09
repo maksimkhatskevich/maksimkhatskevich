@@ -15,7 +15,7 @@ I also write about hip-hop and albums in my Telegram channel **[Grimsby](https:/
 
 Your own music library with a streaming-style interface — everything stays on your drive.
 Albums by year, artist pages, music videos next to albums, gapless playback, ReplayGain, EQ, listening stats and a yearly recap.
-No accounts, no subscriptions, no ads. *Interface in Russian.*
+No accounts, no subscriptions, no ads. *Available in 9 languages.*
 
 **[→ Learn more and download](https://github.com/maksimkhatskevich/grimsby-releases)**
 
