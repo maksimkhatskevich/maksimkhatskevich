@@ -33,6 +33,7 @@ I also write about hip-hop and albums in my Telegram channel **[@itsgrimsby](htt
 <a href="https://github.com/maksimkhatskevich/grimsby-tagger"><img src="https://raw.githubusercontent.com/maksimkhatskevich/grimsby-tagger/main/screenshots/banner.jpg" alt="Grimsby Tagger"></a>
 
 All three are free, work without the internet and send nothing about you anywhere. No accounts, no subscriptions, no ads.
+Each one speaks 9 languages: English, Russian, Spanish, Portuguese, German, French, Chinese, Japanese and Korean.
 I own the whole product: idea, design, testing, releases and user support.
 
 ---
